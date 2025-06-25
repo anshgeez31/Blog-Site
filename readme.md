@@ -1,5 +1,5 @@
 # Medium like website
-- It is a type of bloggin website 
+- It is a type of blogging website.
 
 ## TechStack
 
